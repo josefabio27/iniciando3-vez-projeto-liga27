@@ -1,0 +1,77 @@
+
+
+
+
+
+
+/* página de login  */
+body{
+    border: 2px solid #f05c66;
+    margin-inline-start: 33.33%;
+    margin-inline-end: 33.33%;
+    margin-top: 9%;
+    padding-bottom: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-radius: 10%;
+    background-image: url(../_imgform/background-body.png) ;
+    
+   
+}
+
+
+.btn{
+    background-color: #000;
+    color: #fff;
+    box-shadow: x y #f05c66;
+}
+.btn:hover{
+    background-color: #f05c66;
+}
+#bt-login{
+    border-color: #f05c66;
+    box-shadow: #f05c66;
+}
+#bt-login:hover{
+    border-color: #f05c66;
+    background-color: #f05c66;
+   
+}
+.d-flex{
+   font-weight: bold;
+  
+}
+
+#section-login{
+    margin-top: 100px;
+   
+ 
+    
+   
+    }
+    
+    #section-login h1 {
+    text-align: center;
+    }
+    #section-login input {
+    width: 100%;
+    }
+
+
+/* Formulário de cadastro*/
+#section-cadastro {
+    padding: 5px;
+    text-align: center;
+    background-color: rgba(247, 243, 243, 0);
+    }
+    #form-cadastrar {
+    padding: 50px;
+    display: none;
+    font-weight: bold;
+    }
+    #botao-cadastrar{
+       background-color: rgba(247, 243, 243, 0);
+    }
+    
+    
+

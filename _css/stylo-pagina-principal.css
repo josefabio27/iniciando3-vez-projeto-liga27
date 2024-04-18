@@ -1,0 +1,150 @@
+*{
+  padding: 0;
+  margin:0 ;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+/* cabeçalho do site */
+header{
+  background-color: black;
+  height: 60px;
+}
+.container-header{
+text-align: end;
+padding-top: 0.5%;
+margin-right: 2%;
+}
+#nav{
+  display: inline;
+ justify-items: end;
+
+ padding-top: 5%;
+  
+  
+}
+/* dropdow site parceiros */
+.btn-drop{
+  outline: none;
+  background-color: black;  
+                              /*  formatação do texto "site parceiros" no header */
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+.dropdown{
+  
+  position: relative;
+  display: inline-block;
+  background-color: rgba(204 204 204 / 1);
+  
+}
+.dropdown-links{
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 160px;
+  z-index: 1;
+}
+.dropdown-links a{
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-weight: bold;
+
+}
+.dropdown-links a:hover{
+  border: 2px  solid #ff5757;
+  background-color: #000;
+  color: #fff;
+}
+.dropdown:hover .dropdown-links{
+display: block;
+background-color: rgba(248, 247, 247, 0.788);
+border-radius: 9%;
+text-align: center;
+}
+
+.dropdown:hover .btn-drop{
+  background-color: #000;
+
+}
+
+/* fim dropdown */
+
+#a{
+  padding-left: 2%;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 120%;
+}
+.pesquisa {
+  border:solid 1px;
+  border-radius:15px;
+  width:350px;
+  margin-top: 1%;
+ display: flexbox;
+ position: absolute;
+ top: 10%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+  
+ 
+  
+}
+#buscar {
+  float:right;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:260px;
+  outline: none;
+  align-items: center;
+ 
+  
+  
+}
+#imgbuscar{
+  
+  
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:40px;
+  margin-top: 2px;
+  font-weight:bold;
+}
+/* baneer */
+.banner {
+  
+    height: 60%;
+    width: 97%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+  }
+ 
+    
+ 
+    
+  
+  #imgbanner{
+    background-image: url(../_img/banner-promo.png);
+  }
+
+
+
+
+  
+
+/* fim cabeçalho do site */
