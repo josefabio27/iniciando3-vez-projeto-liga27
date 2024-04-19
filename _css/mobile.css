@@ -217,11 +217,9 @@
       max-width: 280px;
       width: 100%;
       grid-template-columns: repeat(auto-fit ,minmax(140px,280px));
-      column-gap: 5px;
-      row-gap: 2px;
       
        margin-top: 2%;
-       gap: 1rem;
+       gap: 9px;
        justify-content: center;
        margin-left:15% ;
      
@@ -271,7 +269,8 @@
       height:140px ;
     }
     .front #imgofertas , .back #imgofertas {
-      width: 300px;
+      width: 309px;
+     
     }
     .acessorios{
       width: 140px;
@@ -285,10 +284,9 @@
     }
     .ofertas{
       grid-area: ofertas;
-      width:300px;
-      margin: 0px;
-      padding: 0;
-      column-gap: none;
+      width: 320px;
+      margin-left: none;
+      
      
       
     }
@@ -311,6 +309,7 @@
       width: 140px;
       height: 140px;
       perspective: 140px;
+      margin-top: 154px;
 
      
     }
