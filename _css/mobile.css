@@ -25,20 +25,21 @@
   .cesta{
     width: 9%;
     text-align: center;
-    margin-top: 3px;
-    height: 90%;
+    margin-top: 6px;
+    height: 100%;
   
   }
   #img-cesta{
+    
     max-height:60%;
-    max-width: 30%;
+    max-width: 100%;
     
   }
   #nav{
    
     display: inline;
    justify-items: center;
-   margin-right: 1%;
+   margin-right: 5%;
   
    
     
