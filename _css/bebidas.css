@@ -246,6 +246,7 @@ article{
     width: 200px;
     height: 230px;
     object-fit: cover;
+    display: block;
 }
 
 .container{
