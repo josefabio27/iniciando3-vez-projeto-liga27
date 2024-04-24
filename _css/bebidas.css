@@ -35,16 +35,7 @@
     max-width: 30%;
     
   }
-  #nav{
-   
-    display: inline;
-   justify-items: center;
-   margin-right: 1%;
   
-   
-    
-    
-  }
   /* dropdow site parceiros */
   .btn-drop{
     outline: none;
@@ -469,31 +460,31 @@ article{
 }
 
 #titulo{
-  margin-left: 770px;
+  /* margin-left: 770px; */
 
 }
 
 
 
 #titulo2{
-  margin-left: 755px;
+  /* margin-left: 755px; */
   
   
 }
 
 
 #titulo3{
-  margin-left: 765px;
+  /* margin-left: 765px; */
   
   
 }
 
 #crush{
-  margin-left:710px
+  /* margin-left:710px */
 }
 
 #pepsi{
-  margin-left: 720px;
+  /* margin-left: 720px; */
 }
 /*rodape*/
 footer{
