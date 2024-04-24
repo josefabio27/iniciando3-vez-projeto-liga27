@@ -26,7 +26,6 @@
   .cesta{
     width: 5%;
     text-align: center;
-    margin-top: 3px;
     height: 90%;
   
   }
@@ -112,7 +111,7 @@
     
   }
   body{
-    background-image: url(../_img/background-body.png);
+   
     background-size: 150%;
     backdrop-filter: blur(10px);
     height: 2200px;
@@ -181,14 +180,14 @@
     grid-row: 3/3;
     text-align: center;
     margin-top: 10%;
-    margin-left: 60px;
+    margin-left: 20px;
   
   }
   .itens{
     color: #fff;
     text-decoration: none;
     padding: 1%;
-    margin:70px;
+    margin:40px;
     font-size: 130%;
     text-transform: uppercase;
     font-weight: bold;
@@ -224,7 +223,7 @@ article{
     
     max-width: 1020px;
     width: 100%;
-    grid-template-columns: repeat(auto-fit ,minmax(200px,1fr));
+    grid-template-columns: repeat(auto-fit ,minmax(300px,1fr));
     column-gap: 30px;
     row-gap: 20px;
    margin-top: 2%;
@@ -258,7 +257,7 @@ article{
 }
 
 .container{
-   
+   justify-content: center;
   max-width: 1600px;
       width: 95%;
       height: 34%;
@@ -274,7 +273,8 @@ article{
 
 .carousel{
   color: #FFF;
-margin-left: 550px;
+ place-content: center;
+/* margin-left: 550px; */
 text-shadow: #000000 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, 2px 2px 0px rgba(206,89,55,0);
 
 
@@ -365,8 +365,8 @@ text-shadow: #000000 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 
 
 .image-item{
   border-radius: 50px;
-  margin-top: 40px;
- 
+  /* margin-top: 40px; */
+ align-items: center;
   
 }
 
@@ -413,7 +413,7 @@ article{
   align-items: center;
   height: 100vh;
   font-family: "Arial";
-  gap:16px;
+  gap:40px;
 }
 
 .card {
