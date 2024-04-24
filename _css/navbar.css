@@ -65,4 +65,5 @@
 
 .login:last-child {
   float: right;
+  margin: 0;
 }
