@@ -112,7 +112,7 @@
     
   }
   body{
-    background-image: url(../_img/background-body.png);
+    /* background-image: url(../_img/background-body.png); não há necessidade do body ter esse fundo modificando e deixando ele branco */
     background-size: 150%;
     backdrop-filter: blur(10px);
     height: 2200px;
