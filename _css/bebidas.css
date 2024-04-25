@@ -246,7 +246,7 @@ article{
     width: 200px;
     height: 230px;
     object-fit: cover;
-    display: block;
+    
 }
 
 .container{
@@ -460,33 +460,31 @@ article{
   cursor: pointer;
 }
 
-#titulo{
+/* #titulo{ */
   /* margin-left: 770px; */
 
-}
+/* } */
 
 
 
-#titulo2{
+/* #titulo2{
   /* margin-left: 755px; */
   
-  
-}
 
 
-#titulo3{
+/* #titulo3{ */
   /* margin-left: 765px; */
   
   
-}
+/* } */
 
-#crush{
+/* #crush{ */
   /* margin-left:710px */
-}
+/* } */
 
-#pepsi{
+/* #pepsi{ */
   /* margin-left: 720px; */
-}
+/* } */
 /*rodape*/
 footer{
   grid-area: rodape;
