@@ -371,27 +371,27 @@
   }
   
   .picture-facebook{
-    margin-left: 0.8%;
+    margin-left: 2px;
    
   
   }
   
   .picture-instagram{
-    margin-left: 3.4%;
+    margin-left: 2px;
   }
   
   .picture-whatssap{
-    margin-left: 2.6%;
+    margin-left: 2px;
     margin-top: 10px;
   }
   
   
   #facebook{
-    margin-left: 3%;
+    margin-left: 6px;
   }
   
   #whatssap{
-    margin-top: 2%;
+    margin-top: 2px;
   }
   
 }
