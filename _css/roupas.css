@@ -9,7 +9,7 @@
   }
   /* cabeçalho do site */
   header{
-    background-color: black;
+    background-color: #8E2718;
     height: 60px;
     
     
@@ -32,7 +32,7 @@
   }
   #img-cesta{
     max-height:60%;
-    max-width: 40%;
+    max-width: 30%;
     
   }
   #nav{
@@ -48,7 +48,7 @@
   /* dropdow site parceiros */
   .btn-drop{
     outline: none;
-    background-color: black;  
+    background-color: #8E2718;  
                                 /*  formatação do texto "site parceiros" no header */
     color: #fff;
     padding: 10px;
@@ -96,7 +96,7 @@
   }
   
   .dropdown:hover .btn-drop{
-    background-color: #000;
+    background-color: #8E2718;
     
   
   }
