@@ -129,8 +129,9 @@ section{
 }
 .pesquisa{
   
-  max-width: 20%;
-  height: 10%;
+  max-width: 25%;
+  background-color: #fff;
+  height: 25%;
   border:2px solid #fff;
   margin-inline: 35%;
   margin-top: 2%;
@@ -138,10 +139,11 @@ section{
 
 }
 #buscar{
-  width: 90%;
+  width: 89%;
   height: 100%;
 outline: none;
 border: none;
+background-color: #fff;
 text-align: center;
 border-top-left-radius:12px;
 border-bottom-left-radius:12px ;
@@ -149,8 +151,8 @@ font-size: 20px;
 
 }
 #imgbuscar{
-  max-width: 10%;
-  height: 100%;
+  max-width: 25%;
+  height: 22.5px;
   float: right;
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
