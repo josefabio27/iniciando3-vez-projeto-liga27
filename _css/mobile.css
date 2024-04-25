@@ -157,13 +157,14 @@
   
   #buscar{
     width:76.5%;
-    height: 80%;
+    height: 75%;
   outline: none;
   border: none;
   text-align: center;
   border-top-left-radius:12px;
   border-bottom-left-radius:12px ;
   font-size: 7px;
+  font-size: 9px;
   
   }
   #imgbuscar{
