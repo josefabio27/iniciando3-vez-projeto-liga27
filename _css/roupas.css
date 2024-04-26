@@ -211,7 +211,7 @@
   }
   
   #foto-b{
-    background-image: url(../_img/balinhas.png);
+    background-image: url(../_img/balinhas-2.png);
     background-size: cover;
     
     max-width: 100%;
@@ -271,7 +271,7 @@ article{
       height: 34%;
     margin-left:150px;
     margin-top: 70px;
-    background: url(../_img/bebidas/madeira.png);
+    background: rgba(95, 86, 86, 0.54);
     border-radius: 20px;
     border: 10px solid black;
    
