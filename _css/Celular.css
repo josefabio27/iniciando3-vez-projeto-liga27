@@ -113,9 +113,9 @@
   }
   body{
     
-    background-size: 150%;
+   
     backdrop-filter: blur(10px);
-    height: 2200px;
+    max-width: 1920px;
   
 
    
@@ -375,7 +375,7 @@ text-shadow: #000000 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 
 h1{
   font-size: 60px;
   color: gray;
-  margin-left: 350px;
+ 
   width: 800px;
   font-family: "Bebas Neue", sans-serif;
   font-weight: 600;
@@ -443,7 +443,7 @@ article{
 }
 .card h1 {
   font-size: 1.2rem;
-  margin-left:730px;
+  margin-left:130px;
   margin-top: -20px;
  
 }
