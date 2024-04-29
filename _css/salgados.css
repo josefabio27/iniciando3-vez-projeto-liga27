@@ -263,7 +263,7 @@ article{
   max-width: 1000px;
       width: 72%;
       height: 34%;
-    margin-left:30%;
+    margin-left:5px;
     margin-top: 70px;
     background:rgba(95, 86, 86, 0.54);
     border-radius: 20px;
@@ -322,7 +322,7 @@ text-shadow: #000000 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 
 
 .container .slider-scrollbar{
   height: 24px;
-  width: 100%;
+  width: 30%;
  
   display: flex;
   align-items: center;
@@ -442,8 +442,8 @@ article{
 }
 .card h1 {
   font-size: 1.2rem;
-  margin-left:730px;
-  margin-top: -20px;
+  text-align: center;
+ 
  
 }
 .card h2 {
@@ -468,7 +468,7 @@ article{
   cursor: pointer;
 }
 
-#salgadinho-de-milho{
+/* #salgadinho-de-milho{
   margin-left:670px;
 }
 
@@ -505,7 +505,7 @@ article{
 }
 #evani{
   margin-left: 760px;
-}
+} */
 /*rodape*/
 footer{
   grid-area: rodape;
